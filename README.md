@@ -25,7 +25,7 @@ You built a mobile game. Now what?
 - Your rewarded ads bring in $0.04 ARPDAU. Is that **good for your genre**, or are you **leaving money on the table**?
 - You're in soft launch. **Is it time to scale, or time to stop?**
 
-80% of mobile games on Steam earn less than $5,000. Not because the games are bad — because the **launch decisions** are wrong.
+80% of mobile games earn less than $5,000. Not because the games are bad — because the **launch decisions** are wrong.
 
 **GameLaunchAI doesn't give you a 30-page report. It gives you a verdict and your next 3 actions.**
 
